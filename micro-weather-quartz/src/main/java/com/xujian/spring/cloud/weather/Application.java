@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * 主应用程序.
  * 
  * @since 1.0.0 2017年9月27日
- * @author <a href="xujianjian.top">Way Lau</a>
+ * @author <a href="xujianjian.top">xujianjian</a>
  */
 @SpringBootApplication
 public class Application {

@@ -6,7 +6,7 @@ import java.io.Serializable;
  * 整个消息的返回对象.
  * 
  * @since 1.0.0 2017年10月18日
- * @author <a href="xujianjian.top">Way Lau</a>
+ * @author <a href="xujianjian.top">xujianjian</a>
  */
 public class WeatherResponse implements Serializable {
 

@@ -6,7 +6,7 @@ import java.io.Serializable;
  * 未来天气信息.
  * 
  * @since 1.0.0 2017年10月18日
- * @author <a href="xujianjian.top">Way Lau</a>
+ * @author <a href="xujianjian.top">xujianjian</a>
  */
 public class Forecast implements Serializable {
 

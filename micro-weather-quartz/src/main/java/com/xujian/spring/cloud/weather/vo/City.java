@@ -9,7 +9,7 @@ import javax.xml.bind.annotation.XmlRootElement;
  * 城市.
  * 
  * @since 1.0.0 2017年10月23日
- * @author <a href="xujianjian.top">Way Lau</a>
+ * @author <a href="xujianjian.top">xujianjian</a>
  */
 @XmlRootElement(name = "d")
 @XmlAccessorType(XmlAccessType.FIELD)

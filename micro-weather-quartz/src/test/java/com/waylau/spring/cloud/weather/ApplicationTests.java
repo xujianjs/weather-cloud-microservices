@@ -9,7 +9,7 @@ import org.springframework.test.context.junit4.SpringRunner;
  * 主应用测试用例.
  * 
  * @since 1.0.0 2017年9月27日
- * @author <a href="xujianjian.top">Way Lau</a>
+ * @author <a href="xujianjian.top">xujianjian</a>
  */
 @RunWith(SpringRunner.class)
 @SpringBootTest

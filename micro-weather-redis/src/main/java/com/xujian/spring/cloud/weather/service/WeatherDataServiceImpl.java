@@ -22,7 +22,7 @@ import com.xujian.spring.cloud.weather.vo.WeatherResponse;
  * 天气数据服务.
  * 
  * @since 1.0.0 2017年10月18日
- * @author <a href="xujianjian.top">Way Lau</a>
+ * @author <a href="xujianjian.top">xujianjian</a>
  */
 @Service
 public class WeatherDataServiceImpl implements WeatherDataService {

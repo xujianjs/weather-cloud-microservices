@@ -17,7 +17,7 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
  * HelloController Test.
  * 
  * @since 1.0.0 2017年9月27日
- * @author <a href="xujianjian.top">Way Lau</a>
+ * @author <a href="xujianjian.top">xujianjian</a>
  */
 @RunWith(SpringRunner.class)
 @SpringBootTest

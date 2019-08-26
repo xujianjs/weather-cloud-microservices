@@ -11,7 +11,7 @@ import javax.xml.bind.Unmarshaller;
  * XML 工具.
  * 
  * @since 1.0.0 2017年10月24日
- * @author <a href="xujianjian.top">Way Lau</a>
+ * @author <a href="xujianjian.top">xujianjian</a>
  */
 public class XmlBuilder {
 	/**

@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
  * Hello Controller.
  * 
  * @since 1.0.0 2017年9月27日
- * @author <a href="xujianjian.top">Way Lau</a>
+ * @author <a href="xujianjian.top">xujianjian</a>
  */
 @RestController
 public class HelloController {

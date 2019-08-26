@@ -8,7 +8,7 @@ import com.xujian.spring.cloud.weather.vo.City;
  * 城市数据服务接口.
  * 
  * @since 1.0.0 2017年10月23日
- * @author <a href="xujianjian.top">Way Lau</a>
+ * @author <a href="xujianjian.top">xujianjian</a>
  */
 public interface CityDataService {
 

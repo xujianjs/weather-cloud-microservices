@@ -10,7 +10,7 @@ import java.util.List;
  * 天气信息类.
  * 
  * @since 1.0.0 2017年10月18日
- * @author <a href="xujianjian.top">Way Lau</a>
+ * @author <a href="xujianjian.top">xujianjian</a>
  */
 public class Weather implements Serializable {
 

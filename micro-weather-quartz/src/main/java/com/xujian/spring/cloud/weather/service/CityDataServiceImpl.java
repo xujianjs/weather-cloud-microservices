@@ -16,7 +16,7 @@ import com.xujian.spring.cloud.weather.vo.CityList;
  * 城市数据服务.
  * 
  * @since 1.0.0 2017年10月23日
- * @author <a href="xujianjian.top">Way Lau</a>
+ * @author <a href="xujianjian.top">xujianjian</a>
  */
 @Service
 public class CityDataServiceImpl implements CityDataService {

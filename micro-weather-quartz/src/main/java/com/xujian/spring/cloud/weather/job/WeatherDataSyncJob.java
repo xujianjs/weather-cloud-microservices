@@ -17,7 +17,7 @@ import com.xujian.spring.cloud.weather.vo.City;
  * 天气数据同步任务.
  * 
  * @since 1.0.0 2017年10月23日
- * @author <a href="xujianjian.top">Way Lau</a>
+ * @author <a href="xujianjian.top">xujianjian</a>
  */
 public class WeatherDataSyncJob extends QuartzJobBean {
 	
