@@ -16,7 +16,7 @@ import java.io.IOException;
  * 天气数据服务.
  * 
  * @since 1.0.0 2017年10月18日
- * @author <a href="https://waylau.com">Way Lau</a>
+ * @author <a href="xujianjian.top">Way Lau</a>
  */
 @Service
 public class WeatherDataServiceImpl implements WeatherDataService {
@@ -56,6 +56,7 @@ public class WeatherDataServiceImpl implements WeatherDataService {
 		WeatherResponse weather = null;
 
 		try {
+			//通过json进行反序列化  使其成为WeatherResponse对象（因此很自然想到WeatherResponse需要实现序列化接口Serializable）
 			weather = mapper.readValue(strBody, WeatherResponse.class);
 		} catch (IOException e) {
 			e.printStackTrace();
